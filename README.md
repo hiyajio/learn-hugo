@@ -1,1 +1,1 @@
-# learn-hugo
+# Learn Hugo
