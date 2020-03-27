@@ -1,3 +1,3 @@
 # Learn Hugo :dango:
 
-Documentation of progress learning the Go framework: Hugo.
+Documentation of progress learning the Go/Golang framework: Hugo.
